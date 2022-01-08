@@ -10,7 +10,7 @@ const useStyles = makeStyles({
     alignItems: 'center'
   },
   container: {
-    color: '#9911aa',
+    color: '#aa6600',
     textAlign: 'center'
   }
 })
